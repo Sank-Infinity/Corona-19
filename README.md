@@ -8,4 +8,4 @@
 -Run script unitwise. 
 -confusion matrix will return a 2x2 matrix. where,addition A11 + A22 represents correct predictions and addition of A12+A21 represents mismatched values of predictions and real values . 
 
-In this model Logistic regression has used Because our result is in the format of (yes or no) 0 or 1 which means its bullean value. 
+In this model Logistic regression has used Because our result is in the format of (yes or no) 0 or 1 which means it returns bullean value. 
