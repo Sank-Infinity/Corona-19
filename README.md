@@ -16,4 +16,6 @@
 -confusion matrix will return a 2x2 matrix. where,addition A11 + A22 represents correct predictions and addition of A12+A21 represents mismatched values of predictions and real values . 
 
 
-In this model Support Vector Classifier (Machine Learning Model) has used Because our result is in the format of (yes or no) 0 or 1 which means it returns bullean value. 
+In this model Kernel_SVM (Support_Vector_Machine) has used Because our result is in the format of (yes or no) 0 or 1 which means it returns bullean value. 
+
+You can also go for  LogisticRegressionClassifier, DecisionTreeClassifier, RandomForestClassifier etc.
