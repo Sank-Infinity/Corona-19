@@ -23,8 +23,8 @@ X_train = sc_x.fit_transform(X_train)
 X_test = sc_x.fit_transform(X_test)
 
 #Impoting The Classifier 
-from sklearn.linear_model import LogisticRegression
-cls = LogisticRegression(random_state=0)
+from sklearn.svm import SVC
+cls = SVC(kernel= 'rbf',random_state=0)
 cls.fit(X_train, Y_train)
 
 #Prediction of results for X_test
