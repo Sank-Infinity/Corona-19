@@ -5,7 +5,7 @@
 
 3) Change the data set and index accordingly and train the model you will get predicted probability.
 
-#How to run
+#GuideLines
 
 -Make sure You have installed all depedencies required for script.
 
@@ -15,7 +15,7 @@
 
 -confusion matrix will return a 2x2 matrix. where,addition A11 + A22 represents correct predictions and addition of A12+A21 represents mismatched values of predictions and real values . 
 
-
+# NOTE
 In this model Kernel_SVM (Support_Vector_Machine) has used Because our result is in the format of (yes or no) 0 or 1 which means it returns bullean value. 
 
 You can also go for  LogisticRegressionClassifier, DecisionTreeClassifier, RandomForestClassifier etc.
