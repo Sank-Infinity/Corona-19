@@ -5,7 +5,7 @@
 
 3) Change the data set and index accordingly and train the model you will get predicted probability.
 
-#GuideLines
+# GuideLines
 
 -Make sure You have installed all depedencies required for script.
 
