@@ -4,7 +4,7 @@
 2) This Machine learning model based on RANDOM DATA set of BASIC SYMPTOMS like Fever, 	Dry cough,	Difficulty in breathing, RunnyNose,	Tiredness,	Body Aches,	Sore throat,	Bluish lips or face,	Persistent pain or pressure in the chest and Age.
 
 3) Change the data set and index accordingly and train the model. you will get probability whether, patient is positive or negative.
-4) If Probability of positiveness is more than half than patient might be suffer from corona otherwise not.
+4) If Probability of positiveness is more than 0.5 than patient might be suffer from corona otherwise not.
 
 # GuideLines
 
