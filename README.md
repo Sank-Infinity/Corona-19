@@ -1,5 +1,5 @@
 # Corona-19
-1) Python Code for Probability prediction for corona disease for patient.  
+1) Python Code for Probability prediction for corona disease for patient using machine learning model.  
 
 2) This Machine learning model based on RANDOM DATA set of BASIC SYMPTOMS like Fever, 	Dry cough,	Difficulty in breathing, RunnyNose,	Tiredness,	Body Aches,	Sore throat,	Bluish lips or face,	Persistent pain or pressure in the chest and Age.
 
