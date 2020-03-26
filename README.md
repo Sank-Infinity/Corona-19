@@ -19,4 +19,4 @@
 # NOTE
 In this model SupporVectorClassifier from scikit learn library is used because our result is in the format of (yes or no) 0 or 1 which means it returns bullean value. 
 
-You can also go for  LogisticRegressionClassifier, DecisionTreeClassifier, RandomForestClassifier etc.
+You can also go for other classifiers such as LogisticRegressionClassifier, DecisionTreeClassifier, RandomForestClassifier etc.
