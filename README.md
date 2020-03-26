@@ -10,7 +10,7 @@
 
 -Make sure You have installed all depedencies required for script.
 
--For getting Well Sorted results use SPYDER IDLE.
+-For getting well organized results use SPYDER IDLE.
 
 -Run script unitwise. 
 
