@@ -1,8 +1,3 @@
-"""
-Created on Sat Mar 21 13:45:33 2020
-
-@author: Sanket Kale
-"""
 #Importing The Libraries
 import numpy as np
 import pandas as pd 
