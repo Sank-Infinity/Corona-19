@@ -8,13 +8,13 @@
 
 # GuideLines
 
--Make sure You have installed all depedencies required for script.
+- Make sure You have installed all depedencies required for the script.
 
--For getting well organized results use SPYDER IDLE.
+- For getting well organized results use SPYDER IDLE.
 
--Run script unitwise. 
+- Run the script unitwise. 
 
--confusion matrix will return a 2x2 matrix. where,addition A11 + A22 represents correct predictions and addition of A12+A21 represents mismatched values of predictions and real values . 
+- Confusion matrix will return a 2x2 matrix. where,addition A11 + A22 represents correct predictions and addition of A12+A21 represents     mismatched values of predictions and real values . 
 
 # NOTE
 In this model SupporVectorClassifier from scikit learn library is used because our result is in the format of (yes or no) 0 or 1 which means it returns bullean value. 
